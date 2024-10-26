@@ -1,0 +1,39 @@
+.trabajo_foda{
+    font-size: 60px;
+}
+
+p {
+    color: rgb(53, 53, 77);
+    font-size: 20px;
+    text-align: justify;
+}
+
+h2 {
+    color: rgb(180, 12, 152);
+    font-size: 25px;
+    text-align: start;
+}
+
+h3 {
+    color: rgb(153, 0, 0);
+    font-size: 25px;
+    text-align: start;
+}
+
+h4 {
+    color: rgb(25, 149, 231);
+    font-size: 25px;
+    text-align: start;
+}
+
+.lista {
+    color: rgb(80, 7, 216);
+    font-size: 23px;
+    text-align: justify;
+}
+
+.intro{
+    color: red;
+    font-size: 45px;
+    text-align: center;
+}
